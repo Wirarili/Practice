@@ -64,6 +64,7 @@ namespace Практика
             context.Users.Remove(user);
             context.SaveChanges();
         }
+
         
 
         public class User
@@ -71,6 +72,7 @@ namespace Практика
             public int ID { get; set; }
             public string Login { get; set; }
             public string Password { get; set; }
+            public string Email { get; set; }
             public List<Transport> Transports { get; set; }
         }
 
@@ -90,23 +92,27 @@ namespace Практика
             var password = Password.Password;
 
             var context = new AppDbContext();
-            var user = context.Users.SingleOrDefault(x => x.Login == login && x.Password == password);
+            var user = context.Users.SingleOrDefault(x => x.Login == login && x.Password == password || x.Email == login && x.Password == password); 
             if (user == null)
             {
-                MessageBox.Show("Этот дом запривачен");
+                LoginError.Text = "Неверный логин или пароль";
                 return;
             }
-            MessageBox.Show("Добро пожаловать на паблик");
             Window2 window2 = new Window2();
             window2.Show();
-            this.Hide();
+            this.Close();
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             Window1 newForm = new Window1();
             newForm.Show();
-            this.Hide();
+            this.Close();
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            
         }
     }
 }

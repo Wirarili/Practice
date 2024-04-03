@@ -1,0 +1,140 @@
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Практика.exe
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Практика.deps.json
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Практика.runtimeconfig.json
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Практика.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Практика.pdb
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика_MarkupCompile.cache
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика_MarkupCompile.lref
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.g.resources
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.AssemblyInfo.cs
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.dll
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\refint\Практика.dll
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.pdb
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.genruntimeconfig.cache
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\ref\Практика.dll
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Window1.g.cs
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Window1.baml
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\Практика\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Практика.csproj.CopyComplete
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Window2.g.cs
+C:\Users\student\Desktop\Практика\obj\Debug\net6.0-windows\Window2.baml
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Практика.exe
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Практика.deps.json
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Практика.runtimeconfig.json
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Практика.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Практика.pdb
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Практика Маркелов\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.csproj.AssemblyReference.cache
+D:\Практика Маркелов\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Window1.g.cs
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Window2.g.cs
+D:\Практика Маркелов\obj\Debug\net6.0-windows\App.g.cs
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика_MarkupCompile.cache
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика_MarkupCompile.lref
+D:\Практика Маркелов\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Window1.baml
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Window2.baml
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.g.resources
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.AssemblyInfoInputs.cache
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.AssemblyInfo.cs
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.csproj.CoreCompileInputs.cache
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.csproj.CopyComplete
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.dll
+D:\Практика Маркелов\obj\Debug\net6.0-windows\refint\Практика.dll
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.pdb
+D:\Практика Маркелов\obj\Debug\net6.0-windows\Практика.genruntimeconfig.cache
+D:\Практика Маркелов\obj\Debug\net6.0-windows\ref\Практика.dll

@@ -99,6 +99,7 @@ namespace Практика
                 return;
             }
             Window2 window2 = new Window2();
+            window2.Title = $"Добро пожаловать {Login.Text}";
             window2.Show();
             this.Close();
         }
@@ -109,10 +110,30 @@ namespace Практика
             newForm.Show();
             this.Close();
         }
-
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-            
+                SPassword.Text = Password.Password; 
+                Password.Visibility = Visibility.Hidden; 
+                Vis.Visibility = Visibility.Hidden;
+                InVis.Visibility = Visibility.Visible;
         }
+
+        private void InVis_Click(object sender, RoutedEventArgs e)
+        {
+                Password.Password = SPassword.Text;
+                Password.Visibility = Visibility.Visible;
+                InVis.Visibility = Visibility.Hidden;
+                Vis.Visibility = Visibility.Visible;
+        }
+
+
+
+        /*private void RadioButton_Checked(object sender, RoutedEventArgs e)
+        {
+            
+            if (Check.IsChecked == true) { Password.Visibility = Visibility.Hidden; SPassword.Text = Password.Password; }
+            else { Password.Visibility = Visibility.Hidden; SPassword.Text = ""; }
+            
+        }*/
     }
 }

@@ -65,5 +65,32 @@ namespace Практика
             Form.Show();
             this.Close();
         }
+        private void Vis_Click(object sender, RoutedEventArgs e)
+        {
+
+                SPassword.Text = Password.Password;
+                Password.Visibility = Visibility.Hidden;
+
+                SCPassword.Text = CPassword.Password;
+                CPassword.Visibility = Visibility.Hidden;
+
+                Vis.Visibility = Visibility.Hidden;
+                InVis.Visibility = Visibility.Visible;
+            
+        }
+
+        private void InVis_Click(object sender, RoutedEventArgs e)
+        {
+
+                Password.Password = SPassword.Text;
+                Password.Visibility = Visibility.Visible;
+
+                CPassword.Password = SCPassword.Text;
+                CPassword.Visibility = Visibility.Visible;
+
+                InVis.Visibility = Visibility.Hidden;
+                Vis.Visibility = Visibility.Visible;
+            
+        }
     }
 }
